@@ -1,2 +1,2 @@
-# Lava_Rapido
+# Lava Rápido
 
