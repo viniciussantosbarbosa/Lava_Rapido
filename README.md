@@ -1,27 +1,29 @@
 ![GitHub](https://img.shields.io/github/license/viniciussantosbarbosa/agenda)
-# Agenda de contatos 
-Simples Agenda de contatos para sistemas (Windows, Linux, MAC)
+# Lava Rápido
+Sistema para a gestão de comercio de bens e serviços
 
 ## Autor
 Vinicius Barbosa dos Santos
 
-## Instalação projeto Agenda de contatos banco de dados
+## Instalação projeto Lava Rápido banco de dados
 essas intruções fornecerão uma cópia do projeto instalado e funcionando a sua maquina local. 
 ### pré-requisitos:
 É necessário ter instalado no computador:
 
-* Java versão 17
+* Java JDK 17 ou superior:
+   
 ![image](https://github.com/viniciussantosbarbosa/agenda/assets/95319523/6ebd995d-a7a1-492a-a48f-c2fcb3641494)
 
-* XAMPP
+* XAMPP:
+  
 ![image](https://github.com/viniciussantosbarbosa/agenda/assets/95319523/828d95fa-1824-4371-85ac-94f68de77f1d)
 
-* https://www.apachefriends.org/pt_br/index.html
+
 
 ### Instalação:
 * Execute o XAMPP e acesse a administração do MySQL (phpmyadmin)
-* Crie um novo banco de dados de nome dbradicalgames
-* Faça a importação do arquivo radicalgames.sql para o XAMPP Em "Releases" Faça o download da radicalgames (.jar) e execute o arquivo
+* Crie um novo banco de dados de nome dblavarapido
+* Faça a importação do arquivo lavarapido.sql para o XAMPP Em "Releases" Faça o download da lavarapido (.jar) e execute o arquivo
 * Crie um usuário com o nome "admin" e senha "admin"
 
 ### Interfaces:
